@@ -4,8 +4,11 @@ title: About Artith
 permalink: /about/
 ---
 Artith Yamyim
+
 รหัส 57122420158
+
 วทบ.57.11.1
+
 คณะวิทยาการคอมพิวเตอร์
 
 ### มีอะไรอยู่ในนี้บ้าง
