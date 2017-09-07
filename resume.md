@@ -4,9 +4,10 @@ title: My resume
 permalink: /resume/
 ---
 
-#Experience
-- web programming
+# Experience
+- web Developer
 - c
 - c++
-#Education
-- Bs.C. Computer Science, Ubon Ratchathani Ratch
+# Education
+- high school
+- Bs.C. Computer Science, Ubon Ratchathani Ratchabhat University
