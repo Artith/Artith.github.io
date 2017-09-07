@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
+title: About Artith
 permalink: /about/
 ---
+Artith Yamyim
+รหัส 57122420158
+วทบ.57.11.1
+คณะวิทยาการคอมพิวเตอร์
 
-Some information about you!
+### มีอะไรอยู่ในนี้บ้าง
 
-### More Information
+เรื่องมีอยู่ว่า
+...อ่านต่อ
 
-A place to include any other types of information that you'd like to include about yourself.
+### จะบบ
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Artith.ycs57@ubru.ac.th
